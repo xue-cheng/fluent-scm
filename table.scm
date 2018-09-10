@@ -70,8 +70,8 @@
                 ) ;#t
                 (iter 3000) ;#f
             )
-            (tis (format #f "re fo wf y ~a ~a 0 Cd_~a_~a.txt" (- vx) (- vy) aoa turb))
-            (tis (format #f "re fo wf y ~a ~a 0 Cl_~a_~a.txt" (- vy) vx aoa turb))
+            (tis (format #f "re fo wf y ~a ~a 0 y Cd_~a_~a.txt" (- vx) (- vy) aoa turb))
+            (tis (format #f "re fo wf y ~a ~a 0 y Cl_~a_~a.txt" (- vy) vx aoa turb))
             (tis (format #f "re fo wm y 1.3292731 0 0 0 0 1 y Cm_~a_~a.txt" aoa turb))
             (tis (format #f "f wc ./base_~a_~a.cas" aoa turb))
             (tis (format #f "f wd ./base_~a_~a.dat" aoa turb))
