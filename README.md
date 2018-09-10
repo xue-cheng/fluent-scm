@@ -2,7 +2,7 @@
 Collection of Scheme codes for Fluent
 ## Table of Contents ##
 - **table.scm**
-is a executable script to evaluate aerodynamic properties under different AoAs and turbulence modes.
+is an executable script to evaluate aerodynamic properties under different AoAs and turbulence modes.
 ## License ##
 FLUENT-SCM is Copyright (c) 2018 Xue Cheng.
 
